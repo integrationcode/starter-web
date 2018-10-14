@@ -15,3 +15,6 @@ As stated above the purpose is same.
 This is a simple text for Deployment
 
 ## How to Contribute
+
+### Copyright
+2018 git.training
