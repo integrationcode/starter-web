@@ -16,6 +16,8 @@ This is a simple text for Deployment
 
 ## How to Contribute
 
+Please fork this repository and then issue pull requests for review.
+
 ### Copyright
 2018 git.training
 
