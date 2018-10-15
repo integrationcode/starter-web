@@ -2,6 +2,7 @@
 
 This is a sample web project for showing how to use Git and Github together.
 Adding some more text!
+More changes from myfeatures branch too.
 
 ## Introduction
 
