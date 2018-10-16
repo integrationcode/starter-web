@@ -24,3 +24,4 @@ Please fork this repository and then issue pull requests for review.
 2018 git.training
 
 #### New Heading
+All rights reserved.
