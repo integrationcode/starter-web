@@ -25,3 +25,5 @@ Please fork this repository and then issue pull requests for review.
 
 #### New Heading
 All rights reserved.
+
+Adding one more fix for production.
